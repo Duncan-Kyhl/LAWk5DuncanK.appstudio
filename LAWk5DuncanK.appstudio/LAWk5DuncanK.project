@@ -23,16 +23,24 @@
           "!type": "External",
           "file": [
             "forms",
-            "FirstProgram",
-            "FirstProgram.json"
+            "while",
+            "while.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "SecondProgram",
-            "SecondProgram.json"
+            "for",
+            "for.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calc",
+            "calc.json"
           ]
         }
       ],
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "FirstProgram",
+      "firstform": "while",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
