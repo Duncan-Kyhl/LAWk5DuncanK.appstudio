@@ -1,4 +1,4 @@
-
+/*
 x = Number(prompt('Enter a number:'))
 y = Number(prompt('Enter a number:'))
 
@@ -16,3 +16,4 @@ function Calculate(num1, num2) {
 let summedNumbers = Calculate(x,y)
 
 console.log(`The sum of ${x} and ${y} is ${summedNumbers}`)
+*/
